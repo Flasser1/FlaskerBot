@@ -1,2 +1,0 @@
-# FlaskerBot
-Discord Bot - Flasker
